@@ -70,6 +70,7 @@ public class Actividad2SistemaGestionBiblioteca {
     public static void mostrarOpcionesMenu(){
         System.out.println("========================================");
         System.out.println("    SISTEMA DE GESTIÓN DE BIBLIOTECAS   ");
+        System.out.println("    Realizaco por Carlos Eduardo Hincapie Hidalgo   ");
         System.out.println("========================================");
         System.out.println("1. Agregar Libro");
         System.out.println("2. Registrar Usuario");
